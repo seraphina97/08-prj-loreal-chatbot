@@ -18,6 +18,13 @@ body {
   max-width: 900px;
 }
 
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
 /* header */
 .site-header {
   text-align: center;
